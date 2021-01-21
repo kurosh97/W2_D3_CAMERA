@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">w2_d3_Camera</string>
+    <string name="btn_text">click to Take a image</string>
+    <string name="btn_text_save_image">Save image</string>
+</resources>
